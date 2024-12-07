@@ -1,3 +1,11 @@
 .note {
   border: 1px solid black;
+}
+
+.main {
+  padding: 20px;
+}
+
+.hidden {
+  display: none;
 }/*# sourceMappingURL=style.css.map */
